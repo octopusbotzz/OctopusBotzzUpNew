@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/sulaiman0851/images/blob/master/Minecraft%20Images/Standing_Minecraft.jpg" alt="HARUKA BOT" height="200" width="150"/>
+<img src="https://github.com/sulaiman0851/images/blob/master/Minecraft%20Images/Standing_Minecraft.jpg" alt="HARUKA BOT" height="200" width="300"/>
 
 <p align="center">
     <a href="https://zeeoneofc.github.io">
