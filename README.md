@@ -54,9 +54,9 @@ Click the deploy icon below !
 > apt update && apt upgrade
 > pkg install libweb nodejs git ffmpeg
 > git clone https://github.com/zeeone-ofc/Haruka.git
-> cd Haruka
+> cd OctopusBotzzUpNew
 > npm install
-> node haruka.js
+> node octo.js
 ```
 
 ## settings
@@ -64,10 +64,10 @@ You can edit owner and other in `'./settings/config.json'`
 
 ```ts
 {
-	"ownername":"ZeeoneOfc",
+	"ownername":"Sulaiman Majid",
 	"ownernumber":"62887435047326",
-	"botname":"Haruka-Bot",
-	"thumbnail":"./settings/haruka.jpg",
+	"botname":"Octopus-Bot",
+	"thumbnail":"./settings/octopus.jpg",
 	"session_name":"./session.json"
 }
 ```
